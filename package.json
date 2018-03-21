@@ -1,6 +1,6 @@
 {
   "name": "eflux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple React Flux like framework",
   "main": "lib/index.js",
   "scripts": {
@@ -31,10 +31,10 @@
     "eslint-plugin-react": "^3.11.3",
     "jest-webpack-alias": "^2.0.0",
     "react-addons-test-utils": ">=0.14.6",
-	"react-transform-catch-errors": "^1.0.0",
+    "react-transform-catch-errors": "^1.0.0",
     "react-transform-hmr": "^1.0.1",
     "redbox-react": "^1.2.0",
-	"webpack": "^1.12.9",
+    "webpack": "^1.12.9",
     "bower": "^1.7.2"
   },
   "peerDependencies": {
